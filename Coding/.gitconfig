@@ -1,5 +1,7 @@
 [alias]
+# Sets up a command `git lg` (more readable, colour-coded, timestamped version of `git log`)
         lg = log --all --color --graph --pretty=format:'%C(bold red)%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ci) %C(bold blue)<%an>%Creset' --abbrev-commit --
 [user]
-        name = Ella Tuominen
+# Sets the user name and email associated with commits made in this Terminal
+        name = Ella W Tuominen
         email = ella.w.tuominen@gmail.com
