@@ -2,9 +2,19 @@
 
 ### To set up .bash_profile:  
 - Go to Terminal
-- Enter `vim .bash_profile` - this creates (or opens, if the file exists) the file .bash_profile in the text editing program Vim
+- Enter `vim ~/.bash_profile` - this creates (or opens, if the file exists) the file .bash_profile in the text editing program Vim
 - Copy the contents of the [.bash_profile file](./.bash_profile)
 - Paste into .bash_profile file open in Terminal.
 - Press ESC to make sure Vim is in 'edit' mode (not 'insert' mode). This is necessary so you can save changes and exit. 
 - Press shift + Z, shift + Z (same command twice) to save and exit Vim. 
 
+### To set up .gitconfig
+- Go to Terminal
+- Enter `vim ~/.gitconfig` - this creates (or opens, if the file exists) the file .gitconfig in the text editing program Vim
+- Copy the contents of the [.gitconfig file](./.gitconfig)
+- Paste into .gitconfig file open in Terminal.
+- Press `i` to enter 'insert' mode on Vim. 
+- Use the arrow keys to navigate to 'name =' and replace my name with your own. 
+- Do the same with email. It is a good idea to put one you use on GitHub. 
+- Press ESC to put Vim into 'edit' mode (not 'insert' mode). 
+- Press shift + Z, shift + Z (same command twice) to save and exit Vim. 
