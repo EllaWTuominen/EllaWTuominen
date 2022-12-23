@@ -1,0 +1,5 @@
+[alias]
+        lg = log --all --color --graph --pretty=format:'%C(bold red)%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ci) %C(bold blue)<%an>%Creset' --abbrev-commit --
+[user]
+        name = Ella Tuominen
+        email = ella.w.tuominen@gmail.com
