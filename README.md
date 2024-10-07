@@ -14,7 +14,7 @@ Interested in
 ✨neuroscience  
 ✨mindfulness  
 
-🌱 I’m currently learning more about computational modeling on a research exchange at the Niv Lab at Princeton University. 
+🌱 I’m currently learning more about computational modeling on a research exchange at the Niv Lab at Princeton University.  
 🤝 I’m open to collaborations.  
 📫 Please feel free to email: ella.tuominen.19@ucl.ac.uk (work) or ella.w.tuominen@gmail.com (personal).  
 🐦 Twitter:[@EllaWTuominen](https://twitter.com/EllaWTuominen)  
