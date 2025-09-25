@@ -20,7 +20,7 @@ Interested in
 🤝 I’m open to collaborations.  
 📫 Please feel free to email: ella.tuominen.19@ucl.ac.uk (work) or ella.w.tuominen@gmail.com (personal).  
 🐦 Twitter:[@EllaWTuominen](https://twitter.com/EllaWTuominen)  
-🦋 Bluesky: [@Ella W Tuominen](https://bsky.app/profile/ellatuominen.bsky.social)
+🦋 Bluesky: [@Ella W Tuominen](https://bsky.app/profile/ellatuominen.bsky.social)  
 💼 LinkedIn: [Ella W Tuominen](https://www.linkedin.com/in/ella-w-tuominen/)
 
 <!---
