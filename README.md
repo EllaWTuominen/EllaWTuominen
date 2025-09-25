@@ -16,8 +16,7 @@ Interested in
 ✨neuroscience  
 ✨mindfulness  
 
-🌱 Currently writing up my thesis. 
-
+🌱 Currently writing up my thesis.  
 🤝 I’m open to collaborations.  
 📫 Please feel free to email: ella.tuominen.19@ucl.ac.uk (work) or ella.w.tuominen@gmail.com (personal).  
 🐦 Twitter:[@EllaWTuominen](https://twitter.com/EllaWTuominen)  
