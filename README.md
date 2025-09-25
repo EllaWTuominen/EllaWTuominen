@@ -6,6 +6,8 @@ as a symptom of anxiety and the cognitive mechanisms of psychotherapy modalities
 the treatment of anxious avoidance. 
 
 Interested in  
+✨avoidance
+✨reinforcement learning
 ✨psychotherapy modalities  
 ✨psychopharmacology  
 ✨mental health apps  
